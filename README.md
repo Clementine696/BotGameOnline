@@ -5,10 +5,6 @@
 - 63090500412 นายบวรทัต แดงแตง
 - 63090500415 นายพุฒิพงศ์ แซ่ลู่
 - 63090500434 นายวิชญ์วิสิฐ สรณวิช
-![image](https://user-images.githubusercontent.com/53567265/163915118-3f4843b1-83a4-4783-841d-9b4b8c53bf34.png)
-
-![image](https://user-images.githubusercontent.com/53567265/163915097-8cc18e77-bd6d-4825-9100-d0bb539b4a5d.png)
-
 
 # วิธีเปิดเกมส์
 - เวลาเปิดเกมส์จะมี 2 Folder ให้เข้า Folder server แล้ว run ไฟล์ server.java ก่อน
