@@ -7,7 +7,7 @@
 - 63090500434 นายวิช
 
 # วิธีเปิดเกมส์
-- เวลาเปิดเกมส์จะมี 2 Folder ให้เข้า Folder server แล้ว run ไฟล์ "server.java" ก่อน
+- เวลาเปิดเกมส์จะมี 2 Folder ให้เข้า Folder server แล้ว run ไฟล์ server.java ก่อน
 
 - จากนั้นเวลาจะเล่นให้เข้าไปที่ไฟล์ Game/main จากนั้นให้ run ไฟล์ AppMain.java 
 
