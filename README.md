@@ -1,11 +1,5 @@
 # BotGameOnline
 
-## สมาชิก
-- 63090500404 นายคเณศ บุญศิริ
-- 63090500412 นายบวรทัต แดงแตง
-- 63090500415 นายพุฒิพงศ์ แซ่ลู่
-- 63090500434 นายวิชญ์วิสิฐ สรณวิช
-
 ## วิธีเปิดเกมส์
 - เวลาเปิดเกมส์จะมี 2 Folder ให้เข้า Folder server แล้ว run ไฟล์ `server.java` ก่อน
 
@@ -25,3 +19,23 @@
 - ตัว player เดินเร็วกว่ากระสุน หากเดินไปด้วยยิงไปด้วยกระสุนจะโดนตัวเอง
 
 - การเพิ่มผู้เล่นใหม่มาหลังจากที่ผู้เล่นคนอื่นเล่นไปแล้ว จะทำให้เกิด Bug
+
+![image](https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211375731-1b00eb3a-a525-4d11-a5da-523c4564554b.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211375863-c29905c4-a647-4035-bc07-27241b3d5cad.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211376028-37819941-4e95-4855-a3d1-c1daf7159d00.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211376139-9b129ba1-c94d-4bf8-9e0d-3344a989c83e.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png)
+
+
