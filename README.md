@@ -1,5 +1,6 @@
 # BotGameOnline
 
+<!-- 
 ## วิธีเปิดเกมส์
 - เวลาเปิดเกมส์จะมี 2 Folder ให้เข้า Folder server แล้ว run ไฟล์ `server.java` ก่อน
 
@@ -20,7 +21,7 @@
 
 - การเพิ่มผู้เล่นใหม่มาหลังจากที่ผู้เล่นคนอื่นเล่นไปแล้ว จะทำให้เกิด Bug
 
-
+-->
 ## How to open the game
 - เวลาเปิดเกมส์จะมี 2 Folder ให้เข้า Folder server แล้ว run ไฟล์ `server.java` ก่อน
 
