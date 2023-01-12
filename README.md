@@ -1,11 +1,15 @@
 # BotGameOnline
 
 ## Description
-- You can play this game on multiplayer thorugh java socket setting in `Server/server.java` and `Game/main/GamePanel.java` on 
-```
-s = new Socket("localhost", 6789);
-```
-- In this project will run this socket on localhost for education purpose
+- You can play this game on multiplayer thorugh java socket setting in `Server/server.java`.
+  ```
+  server = new ServerSocket(6789);
+  ```
+- And in `Game/main/GamePanel.java` with the same address. 
+  ```
+  s = new Socket("localhost", 6789);
+  ```
+- In this project will run this socket on localhost for education purpose where you can play multiplayer through lan at the same network.
 
 ## How to open the game
 - Start by opening the server. Go to server floder and run `server.java` first.
