@@ -70,7 +70,7 @@
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" /><br>
-  The player who die will get the dead screen and can be respawned by pressing X.
+  Player who die will get the dead screen and can be respawned by pressing X.
   <br><br>
 </p>
 
