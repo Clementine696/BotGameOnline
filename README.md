@@ -26,14 +26,10 @@
 
 - Spacebar to Shoot
 
-- ในส่วนของ Minimap นั้น สีน้ำเงินคือตัวผู้เล่นเอง สีแดงคือศัตรู และสีเขียวคือ Energy Tank
+- On the minimap blue is player, reds are enemy players and green are Energy Tank(Healing point)
 
-- ในส่วนของ Energy Tank การที่จะเพิ่มเลือดนั้น ต้องเดินชนใส่ Enerygy Tank เช่น ถ้า Enerygy Tank อยู่ขวามือเรา ต้องกดตัว D ค้างไว้
+- To receive healing from the Energy Tank, you must walk into it. For example, if the Energy Tank is on the right, you must hold D.
 
-## ข้อควรระวัง 
-- ตัว player เดินเร็วกว่ากระสุน หากเดินไปด้วยยิงไปด้วยกระสุนจะโดนตัวเอง
-
-- การเพิ่มผู้เล่นใหม่มาหลังจากที่ผู้เล่นคนอื่นเล่นไปแล้ว จะทำให้เกิด Bug
 <p float="left">
   <img src="https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png" width="600" />
   <img src="https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png" width="600" />
