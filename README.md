@@ -16,11 +16,15 @@
 
 - Then go to Game/main and run `AppMain.java`.
 
-- If you want to play multiplayer you can run `AppMain.java` again and add more player.
+- If you want to play multiplayer on your pc you can run `AppMain.java` again and add more player.
+
+- If you want to play multiplayer on another pc on the same network and the server is open, you can run `AppMain.java`.
 
 ## How to play
 
-- วิธีการควบคุม การเดิน W A S D การยิง Spacebar
+- W A S D to Walk 
+
+- Spacebar to Shoot
 
 - ในส่วนของ Minimap นั้น สีน้ำเงินคือตัวผู้เล่นเอง สีแดงคือศัตรู และสีเขียวคือ Energy Tank
 
