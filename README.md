@@ -9,7 +9,7 @@
   ```
   s = new Socket("localhost", 6789);
   ```
-- In this project will run this socket on localhost for education purpose where you can play multiplayer through lan at the same network.
+- In this project, this socket will be run on localhost for educational purposes. In which you can play multiplayer over lan in the same network.
 
 ## How to open the game
 - Start by opening the server. Go to server floder and run `server.java` first.
