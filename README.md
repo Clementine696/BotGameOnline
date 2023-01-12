@@ -41,33 +41,41 @@
   After enter a name you will see this game menu and the only option is to press X.
   <br><br>
   
-  <img src="https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png" width="600" />
+  <img src="https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png" width="600" /><br>
   When you press X you will spawn randomly in the map.
+  <br><br>
   
-  <img src="https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png" width="600" />
+  <img src="https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png" width="600" /><br>
+  1. 
+  <br><br>
   
+  <img src="https://user-images.githubusercontent.com/53567265/211375731-1b00eb3a-a525-4d11-a5da-523c4564554b.png" width="600" /><br>
+  1. 
+  <br><br>
   
-  <img src="https://user-images.githubusercontent.com/53567265/211375731-1b00eb3a-a525-4d11-a5da-523c4564554b.png" width="600" />
+  <img src="https://user-images.githubusercontent.com/53567265/211375863-c29905c4-a647-4035-bc07-27241b3d5cad.png" width="600" /><br>
+  1. 
+  <br><br>
   
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211375863-c29905c4-a647-4035-bc07-27241b3d5cad.png" width="600" />
-  
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" />
-  
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" />
-  
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211376028-37819941-4e95-4855-a3d1-c1daf7159d00.png" width="600" />
-  
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211376139-9b129ba1-c94d-4bf8-9e0d-3344a989c83e.png" width="600" />
-  
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" />
-  
-  
+  <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" /><br>
+  1. 
+  <br><br>
+
+  <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" /><br>
+  1. 
+  <br><br>
+
+  <img src="https://user-images.githubusercontent.com/53567265/211376028-37819941-4e95-4855-a3d1-c1daf7159d00.png" width="600" /><br>
+  1. 
+  <br><br>
+
+  <img src="https://user-images.githubusercontent.com/53567265/211376139-9b129ba1-c94d-4bf8-9e0d-3344a989c83e.png" width="600" /><br>
+  1. 
+  <br><br>
+
+  <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" /><br>
+  1. 
+  <br><br>
 </p>
 
 <!-- 
