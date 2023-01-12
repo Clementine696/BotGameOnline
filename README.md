@@ -33,20 +33,16 @@
 
 ## Game picture
 <p float="left">
+  <img src="https://user-images.githubusercontent.com/53567265/212104094-2a2b3a47-7611-44c4-bfb9-c5c39680fa8a.png" width="300" /><br>
+  When you run `AppMain.java` there will be a dialog to enter the player's name.
+  <br><br>
   
-  ![image](https://user-images.githubusercontent.com/53567265/212104094-2a2b3a47-7611-44c4-bfb9-c5c39680fa8a.png)
-  <br>
-    - When you run `AppMain.java` there will be a dialog to enter the player's name.
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png" width="600" />
-  - When you run `AppMain.java` you will 
-  
-  <br>
+  <img src="https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png" width="600" /><br>
+  After enter a name you will see this game menu and the only option is to press X.
+  <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png" width="600" />
-  - When you press X you will spawn randomly in the map.
+  When you press X you will spawn randomly in the map.
   
   <img src="https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png" width="600" />
   
