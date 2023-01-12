@@ -1,4 +1,5 @@
 # BotGameOnline
+<img src="https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png" width="600" />
 
 ## Description
 - You can play this game on multiplayer thorugh java socket setting in `Server/server.java`.
@@ -30,17 +31,47 @@
 
 - To receive healing from the Energy Tank, you must walk into it. For example, if the Energy Tank is on the right, you must hold D.
 
+## Game picture
 <p float="left">
+  
+  ![image](https://user-images.githubusercontent.com/53567265/212104094-2a2b3a47-7611-44c4-bfb9-c5c39680fa8a.png)
+  <br>
+    - When you run `AppMain.java` there will be a dialog to enter the player's name.
+  
+  <br>
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png" width="600" />
+  - When you run `AppMain.java` you will 
+  
+  <br>
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png" width="600" />
+  - When you press X you will spawn randomly in the map.
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375731-1b00eb3a-a525-4d11-a5da-523c4564554b.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375863-c29905c4-a647-4035-bc07-27241b3d5cad.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211376028-37819941-4e95-4855-a3d1-c1daf7159d00.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211376139-9b129ba1-c94d-4bf8-9e0d-3344a989c83e.png" width="600" />
+  
+  
   <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" />
+  
+  
 </p>
 
 <!-- 
