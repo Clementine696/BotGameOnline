@@ -22,6 +22,9 @@
 - การเพิ่มผู้เล่นใหม่มาหลังจากที่ผู้เล่นคนอื่นเล่นไปแล้ว จะทำให้เกิด Bug
 -->
 
+## Description
+- You can play this game on multiplayer thorugh ip address setting in `Server/server.java` and `Game/main/AppMain.java`.
+
 ## How to open the game
 - Start by opening the server. Go to server floder and run `server.java` first.
 
