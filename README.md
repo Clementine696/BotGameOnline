@@ -46,35 +46,31 @@
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png" width="600" /><br>
-  1. 
+  You can move by using W A S D and Spacebar to shoot. When you press spacebar you can shoot ball.
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375731-1b00eb3a-a525-4d11-a5da-523c4564554b.png" width="600" /><br>
-  2. 
+  If your bullet hit the enemy player their hp will decrease by 50.
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375863-c29905c4-a647-4035-bc07-27241b3d5cad.png" width="600" /><br>
-  3. 
-  <br><br>
-  
-  <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" /><br>
-  4. 
+  If you hit the bomb on the ground your hp will drcrease by 5.
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/53567265/211375923-21249238-d7f9-4b50-9850-9e91e3784023.png" width="600" /><br>
-  5. 
+  This image show you that you can get healing from Energy Tank. 
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/53567265/211376028-37819941-4e95-4855-a3d1-c1daf7159d00.png" width="600" /><br>
-  6. 
+  If the hp of Energy Tank is out its will spawn in new location. You can look from the green dot in the minimap.
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/53567265/211376139-9b129ba1-c94d-4bf8-9e0d-3344a989c83e.png" width="600" /><br>
-  7. 
+  If you kill the enemy player there will be kill feed on the screen.
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" /><br>
-  8. 
+  The person who die will get the dead screen and can respawn by pressing X.
   <br><br>
 </p>
 
