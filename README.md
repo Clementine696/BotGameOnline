@@ -29,7 +29,7 @@
 
 - On the minimap blue is player, reds are enemy players and green are Energy Tank(Healing point)
 
-- To receive healing from the Energy Tank, you must walk into it. For example, if the Energy Tank is on the right, you must hold D.
+- To receive healing from the Energy Tank, you must walk into it. For example, if the Energy Tank is on the right, you must hold <kbd>D</kbd>.
 
 ## Game picture
 <p float="left">
@@ -38,15 +38,15 @@
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375440-51c807e8-51a3-4852-8381-a3f9f547454e.png" width="600" /><br>
-  After enter a name you will see this game menu and the only option is to press X.
+  After enter a name you will see this game menu and the only option is to press <kbd>X</kbd>.
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375595-5129cfb6-4dec-4c29-9d34-c8a48880c05d.png" width="600" /><br>
-  When you press X you will spawn randomly in the map.
+  When you press <kbd>X</kbd> you will spawn randomly in the map.
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375646-8c2a8c57-24c4-493b-a83d-43618ed6e246.png" width="600" /><br>
-  You can move using W A S D and Spacebar to shoot. The bullet that you shot is a ball.
+  You can move using <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> and <kbd>Spacebar</kbd> to shoot. The bullet that you shot is a ball.
   <br><br>
   
   <img src="https://user-images.githubusercontent.com/53567265/211375731-1b00eb3a-a525-4d11-a5da-523c4564554b.png" width="600" /><br>
@@ -70,7 +70,7 @@
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" /><br>
-  Player who die will get the dead screen and can be respawned by pressing X.
+  Player who die will get the dead screen and can be respawned by pressing <kbd>X</kbd>.
   <br><br>
 </p>
 
