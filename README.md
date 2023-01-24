@@ -23,9 +23,9 @@
 
 ## How to play
 
-- <kbd>W</kbd> A S D to Walk 
+- <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> to Walk 
 
-- Spacebar to Shoot
+- <kbd>Spacebar</kbd> to Shoot
 
 - On the minimap blue is player, reds are enemy players and green are Energy Tank(Healing point)
 
