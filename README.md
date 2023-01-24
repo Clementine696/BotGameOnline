@@ -23,7 +23,7 @@
 
 ## How to play
 
-- W A S D to Walk 
+- <kbd>W</kbd> A S D to Walk 
 
 - Spacebar to Shoot
 
