@@ -15,7 +15,7 @@
 ## How to open the game
 - Start by opening the server. Go to server folder and run `server.java` first.
 
-- Then go to Game/main and run `AppMain.java`.
+- Then go to `Game/main` and run `AppMain.java`.
 
 - If you want to play multiplayer on your pc you can run `AppMain.java` again and add more player.
 
@@ -33,6 +33,7 @@
 
 ## Game picture
 <p float="left">
+  
   <img src="https://user-images.githubusercontent.com/53567265/212104094-2a2b3a47-7611-44c4-bfb9-c5c39680fa8a.png" width="300" /><br>
   When you run `AppMain.java` there will be a dialog to enter the player's name.
   <br><br>
@@ -72,6 +73,7 @@
   <img src="https://user-images.githubusercontent.com/53567265/211376191-fe0b9876-f916-46af-8c3a-b734d75cea80.png" width="600" /><br>
   Player who die will get the dead screen and can be respawned by pressing <kbd>X</kbd>.
   <br><br>
+  
 </p>
 
 <!-- 
