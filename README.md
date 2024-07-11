@@ -13,7 +13,7 @@
 - In this project, this socket will be run on localhost for educational purposes. In which you can play multiplayer over lan in the same network.
 
 ## How to open the game
-- Start by opening the server. Go to server floder and run `server.java` first.
+- Start by opening the server. Go to server folder and run `server.java` first.
 
 - Then go to Game/main and run `AppMain.java`.
 
